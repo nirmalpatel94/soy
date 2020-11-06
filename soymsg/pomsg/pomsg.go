@@ -10,7 +10,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/robfig/gettext/po"
+	"github.com/nirmalpatel94/gettext/po"
 	"github.com/robfig/soy/soymsg"
 )
 

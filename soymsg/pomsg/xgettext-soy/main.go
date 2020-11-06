@@ -9,7 +9,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/robfig/gettext/po"
+	"github.com/nirmalpatel94/gettext/po"
 	"github.com/robfig/soy/ast"
 	"github.com/robfig/soy/parse"
 	"github.com/robfig/soy/parsepasses"

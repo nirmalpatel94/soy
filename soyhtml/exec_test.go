@@ -8,7 +8,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/robfig/gettext/po"
+	"github.com/nirmalpatel94/gettext/po"
 	"github.com/robfig/soy/ast"
 	"github.com/robfig/soy/data"
 	"github.com/robfig/soy/errortypes"
